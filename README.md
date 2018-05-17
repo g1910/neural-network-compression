@@ -6,6 +6,6 @@ With the recent advances in Artificial Intelligence using deeper neural networks
 
 Here are the links to the slides summarizing the idea explored by each person,
 
-- **Shashank Tripathi** ([Link](https://drive.google.com/open?id=0BxeL0fUr0u9ANjNUV2ZYY01maEROXzY0UUhmbFh5eXZvMjRF))
-- **Gaurav Mittal** ([Link](https://drive.google.com/open?id=0BxeL0fUr0u9AeXZCd1oxR2FOVHo1bEVFcEpYNk95OHVpbnYw))
-- **Yi Jiang** ([Link](https://drive.google.com/open?id=0BxeL0fUr0u9AVFRCbG9xZldYNVhGTGxkZXZ0aTZBYm5pRUV3))
+- **Shashank Tripathi** ([Link](https://drive.google.com/open?id=0BxeL0fUr0u9ANjNUV2ZYY01maEROXzY0UUhmbFh5eXZvMjRF){:target="_blank"})
+- **Gaurav Mittal** ([Link](https://drive.google.com/open?id=0BxeL0fUr0u9AeXZCd1oxR2FOVHo1bEVFcEpYNk95OHVpbnYw){:target="_blank"})
+- **Yi Jiang** ([Link](https://drive.google.com/open?id=0BxeL0fUr0u9AVFRCbG9xZldYNVhGTGxkZXZ0aTZBYm5pRUV3){:target="_blank"})
